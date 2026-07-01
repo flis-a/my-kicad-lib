@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Andrew-Custom")(type "KiCad")(uri "${KICAD_USER_LIB}/symbols/Andrew-Custom.kicad_sym")(options "")(descr "Personal hand-drawn parts"))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KICAD_USER_LIB}/symbols/EasyEDA.kicad_sym")(options "")(descr "Imported via Impart (EasyEDA)"))
+  (lib (name "Samacsys")(type "KiCad")(uri "${KICAD_USER_LIB}/symbols/Samacsys.kicad_sym")(options "")(descr "Imported via Impart (Samacsys)"))
+  (lib (name "Snapeda")(type "KiCad")(uri "${KICAD_USER_LIB}/symbols/Snapeda.kicad_sym")(options "")(descr "Imported via Impart (SnapEDA)"))
+)

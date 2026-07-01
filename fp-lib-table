@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Andrew-Custom")(type "KiCad")(uri "${KICAD_USER_LIB}/footprints/Andrew-Custom.pretty")(options "")(descr "Personal hand-drawn parts"))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KICAD_USER_LIB}/footprints/EasyEDA.pretty")(options "")(descr "Imported via Impart (EasyEDA)"))
+  (lib (name "Samacsys")(type "KiCad")(uri "${KICAD_USER_LIB}/footprints/Samacsys.pretty")(options "")(descr "Imported via Impart (Samacsys)"))
+  (lib (name "Snapeda")(type "KiCad")(uri "${KICAD_USER_LIB}/footprints/Snapeda.pretty")(options "")(descr "Imported via Impart (SnapEDA)"))
+)
