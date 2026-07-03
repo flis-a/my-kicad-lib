@@ -24,7 +24,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MOD_STM_76P_8X12P5_H1P37"
+		(property "Footprint" "Andrew-Custom:MOD_STM_76P_8X12P5_H1P37"
 			(at 0 0 0)
 			(effects
 				(font
